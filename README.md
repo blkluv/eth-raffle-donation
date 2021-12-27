@@ -1,7 +1,7 @@
-# Etherball 🎟
+# Eth Raffle Donation 🎟
 [![Build Status](https://travis-ci.org/njaladan/Etherball.svg?branch=master)](https://travis-ci.org/njaladan/Etherball)
 
-Eth Raffle Donation is a simple raffle web app with numerical tickets and a fixed donation jackpot built for the Ethereum blockchain. The current link to use Etherball is https://lottery.now.sh, though this link is subject to change.
+Eth Raffle Donation is a simple raffle web app with numerical tickets and a fixed donation jackpot built for the Ethereum blockchain.  gt 
 
 <p align="center">
   <img src="./img/demo.gif" height="80%" width="80%">
