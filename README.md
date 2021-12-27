@@ -1,7 +1,7 @@
 # Etherball 🎟
 [![Build Status](https://travis-ci.org/njaladan/Etherball.svg?branch=master)](https://travis-ci.org/njaladan/Etherball)
 
-Etherball is a simple lottery web app with numerical tickets and a fixed jackpot built for the Ethereum blockchain. The current link to use Etherball is https://lottery.now.sh, though this link is subject to change.
+Eth Raffle Donation is a simple raffle web app with numerical tickets and a fixed donation jackpot built for the Ethereum blockchain. The current link to use Etherball is https://lottery.now.sh, though this link is subject to change.
 
 <p align="center">
   <img src="./img/demo.gif" height="80%" width="80%">
@@ -9,9 +9,9 @@ Etherball is a simple lottery web app with numerical tickets and a fixed jackpot
 
 
 ## Features
-Etherball features:
+Eth Raffle Donation features:
 
- • Easy to purchase ticket interface (and prevention of duplicate tickets)  
+ • Easy to donate ticket interface (and prevention of duplicate tickets)  
 
  • Works with the Metamask wallet and Mist browser  
 
@@ -35,7 +35,7 @@ Etherball features:
  • [Web3](https://github.com/ethereum/web3.js/)
 
 ## Installation
-Installing Etherball to use on your machine is simple. First,  
+Installing Eth Raffle Donation to use on your machine is simple. First,  
 
 `git clone`  
 
@@ -63,10 +63,10 @@ Finally, to open the web app,
 ## Miscellaneous
  • The majority of the code powering the app is located in `contracts/Lottery.sol` and `src/js/app.js` - if you'd like to see how the app works in any way, that's probably the place to go.
 
- • The source of randomness for this lottery system comes from a SHA-256 hash taken from the blockchain timestamp and number.
+ • The source of randomness for this raffle system comes from a SHA-256 hash taken from the blockchain timestamp and number.
 
  • Feel free to submit a pull request if you have any changes or suggestions to make. :)
 
 ## Licensing
 
-Etherball is released under the terms of the MIT license. For more information, see https://opensource.org/licenses/MIT.
+Eth Raffle Donation is released under the terms of the MIT license. For more information, see https://opensource.org/licenses/MIT.
